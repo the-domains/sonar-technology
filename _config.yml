@@ -1,0 +1,14 @@
+layout_spectrum: 0.75824418454431
+typography_spectrum: 0.11304819956421852
+color:
+  brandStrength: 0.2676922420505434
+  lightness: 0.3905066507868469
+  saturation: 0.8414726410992444
+  rhythmicContrast: 0.6525286606047302
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Sonar Technology
